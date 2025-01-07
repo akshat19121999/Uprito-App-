@@ -1,4 +1,4 @@
-# flutter_ble_app
+# Uprito
 
 A new Flutter project.
 
